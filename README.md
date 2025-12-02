@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+My name is Gabriel Sicurella, and I am a computer science undergraduate student at RPI.
+
+Coding background:
+* Python
+* Java
+* C++
+* CSS & HTML
+
+
 <!--
 **Gabaee/Gabaee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
